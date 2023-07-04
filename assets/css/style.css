@@ -98,7 +98,7 @@ body {
 }
 .progess-bar .bonus-per svg circle {
   fill: none;
-  stroke: #22c55e;
+  stroke: #1A202C;
   stroke-width: 9px;
   stroke-dasharray: 215;
 }
@@ -227,7 +227,7 @@ body {
   .flatpickr-days
   .dayContainer
   .flatpickr-day.today.selected {
-  background: #22c55e;
+  background: #1ebe59;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -240,7 +240,7 @@ body {
   .dayContainer
   .flatpickr-day.selected {
   background: none;
-  border: 1px solid #22c55e;
+  border: 1px solid #1A202C;
   border-radius: 8px;
 }
 .dark .fc-daygrid-dot-event .fc-event-title{
@@ -284,7 +284,7 @@ body.modal-open {
   color: white;
 }
 .tab.active .tab-icon {
-  background-color: #22c55e;
+  background-color: #1A202C;
   color: white;
 }
 .tab-pane {
@@ -361,7 +361,7 @@ body.modal-open {
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
-  color: #22c55e;
+  color: #1A202C;
 }
 
 .fc-day-sun .fc-col-header-cell-cushion,
@@ -535,8 +535,8 @@ button.fc-button.fc-button-primary.fc-prev-button {
   .item-wrapper
   ul
   li.item:hover {
-  fill: #22c55e;
-  color: #22c55e;
+  fill: #1A202C;
+  color: #133f23;
 }
 :is(.sidebar-wrapper, .sidebar-wrapper-collapse)
   .sidebar-body
@@ -614,8 +614,8 @@ svg
 .item-wrapper
 ul
 li.item:hover {
-  fill: #27DA68;
-  color: #27DA68;
+  fill: #1E2F95;
+  color: #1E2F95;
 }
 :is(.dark .sidebar-wrapper, .dark .sidebar-wrapper-collapse)
 .sidebar-body
@@ -625,7 +625,7 @@ li.item:hover
 .item-ico
 svg
 .path-2 {
-  fill: #16A34A;
+  fill: #1D1E24;
 }
 @media (max-width: 1536px) {
 }
